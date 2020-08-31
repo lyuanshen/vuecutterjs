@@ -1,0 +1,16 @@
+{
+  "name": "vuecutterjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "vue-cutter official website",
+  "repository": "https://github.com/lyuanshen/vuecutterjs.git",
+  "author": "LYuanshen <707978562@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.4"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
