@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 home: true
 heroImage: /logo.svg

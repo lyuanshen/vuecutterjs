@@ -1,4 +1,5 @@
 
+
 module.exports = {
   base: "/",
   host: "127.0.0.1",
@@ -19,7 +20,7 @@ module.exports = {
     },
   },
   head: [
-    ["link", { rel: "icon", href: `favicon.ico` }]
+    ["link", {rel: "icon", href: `favicon.ico`}]
   ],
 
   themeConfig: {
@@ -29,7 +30,7 @@ module.exports = {
     docsDir: "docs",
     docsBranch: "master",
     sidebarDepth: 3,
-    locales:{
+    locales: {
       '/': {
         label: "English",
         selectText: "Languages",
@@ -102,4 +103,4 @@ module.exports = {
       }
     }
   }
-};
+}
